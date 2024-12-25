@@ -1,8 +1,8 @@
 # Uriel A.M. | Computer Systems Engineering Student 👨‍💻
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2)](https://twitter.com/your_twitter_handle)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/jonathan-uriel-ay-mena)
+[![Facebook](https://img.shields.io/badge/Twitter-Follow-1DA1F2)](https://www.facebook.com/urielaymena?mibextid=ZbWKwL)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:urielaymena@gmail.com)
 
 ## 💫 About Me
 Passionate Systems Computer Engineering student with a drive for innovation and problem-solving. I thrive on turning complex challenges into elegant solutions through code. My journey in technology is fueled by curiosity and a commitment to continuous learning.
@@ -40,9 +40,9 @@ const skills = {
 
 ## 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [My Journey into Full-Stack Development](https://your-blog.com/my-journey-into-full-stack-development)
-- [Understanding the Basics of Machine Learning](https://your-blog.com/basics-of-machine-learning)
-- [Introduction to Web Development with HTML and CSS](https://your-blog.com/web-development-html-css)
+- [My Journey into Full-Stack Development]
+- [Understanding the Basics of Machine Learning]
+- [Introduction to Web Development with HTML and CSS]
 <!-- BLOG-POST-LIST:END -->
 
 ## 🤝 Let's Connect!
@@ -50,7 +50,7 @@ I'm always excited to collaborate on interesting projects and connect with fello
 
 - 📧 Email: your-email@example.com
 - 💼 LinkedIn: [Connect with me](www.linkedin.com/in/jonathan-uriel-ay-mena)
-- 📷 Instagram: [@[urielaymena](https://www.facebook.com/urielaymena?mibextid=ZbWKwL)
+- 📘 FaceBook: [@[urielaymena](https://www.facebook.com/urielaymena?mibextid=ZbWKwL)
 
 ---
 <p align="center">
