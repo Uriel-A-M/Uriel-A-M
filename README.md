@@ -20,7 +20,7 @@ I'm always excited to collaborate on interesting projects and connect with fello
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; ***About me***
 
 Passionate Systems Computer Engineering student with a drive for innovation and problem-solving. I thrive on turning complex challenges into elegant solutions through code. My journey in technology is fueled by curiosity and a commitment to continuous learning.
 * **I am interested in Web Designing and Development **
@@ -65,7 +65,7 @@ Passionate Systems Computer Engineering student with a drive for innovation and 
 <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
 
 
-### What I Bring to the Table
+## What I Bring to the Table
 - 🎯 Strong foundation in POO
 - 🔄 Agile methodology enthusiast
 - 🤝 Great team player with excellent communication skills
