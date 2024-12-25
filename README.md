@@ -1,7 +1,7 @@
 # Uriel A.M. | Computer Systems Engineering Student 👨‍💻
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/jonathan-uriel-ay-mena)
-[![Facebook](https://img.shields.io/badge/Twitter-Follow-1DA1F2)](https://www.facebook.com/urielaymena?mibextid=ZbWKwL)
+[![Facebook](https://img.shields.io/badge/FaceBook-Follow-1DA1F2)](https://www.facebook.com/urielaymena?mibextid=ZbWKwL)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:urielaymena@gmail.com)
 
 ## 💫 About Me
