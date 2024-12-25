@@ -75,7 +75,6 @@ Passionate Systems Computer Engineering student with a drive for innovation and 
 - Learning about cybersecurity
 - Deepening my understanding of software architecture
 - Exploring cloud technologies and DevOps practices
-- Contributing to open-source projects
 
 ## 📊 GitHub Analytics
 
