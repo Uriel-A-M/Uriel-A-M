@@ -18,6 +18,9 @@
   <a href="https://www.instagram.com/urielaymena/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="_._.adam._" height="30" width="40" /></a>
+  <a href="https://open.spotify.com/user/8xze2gwdnmf4b33lr0z9bdrpv?si=2b0401d620bd48ff" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg"
+      alt="_._.adam._" height="30" width="40" /></a>
 </p>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>About me
