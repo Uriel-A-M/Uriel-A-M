@@ -6,22 +6,9 @@
 	</a>
 </p>
 
-## 🤝 Connect with me
-I'm always excited to collaborate on interesting projects and connect with fellow developers. Whether you want to discuss technology, share ideas, or explore potential opportunities, feel free to reach out!
-
+<h2 align="left">🤝 Connect with me</h2>
+<p align=center> I'm always excited to collaborate on interesting projects and connect with fellow developers. Whether you want to discuss technology, share ideas, or explore potential opportunities, feel free to reach out!</p>
 <p align="center">
-    <a href="https://www.instagram.com/urielaymena/">
-        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-    <a href="https://www.facebook.com/urielaymena">
-        <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
-    <a href="https://www.linkedin.com/in/jonathan-uriel-ay-mena">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-    <a href="https://open.spotify.com/user/8xze2gwdnmf4b33lr0z9bdrpv?si=895441e8554c420a">
-	<img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white">
-</p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
   <a href="https://www.linkedin.com/in/jonathan-uriel-ay-mena" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
@@ -33,13 +20,13 @@ I'm always excited to collaborate on interesting projects and connect with fello
       alt="_._.adam._" height="30" width="40" /></a>
 </p>
 
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-
 Passionate Systems Computer Engineering student with a drive for innovation and problem-solving. I thrive on turning complex challenges into elegant solutions through code. My journey in technology is fueled by curiosity and a commitment to continuous learning.
-* **I am interested in Web Designing and Development **
+
+**I am interested in Web Development**
 - 🌱 I’m currently learning ...
   - JavaScript
   - Python
