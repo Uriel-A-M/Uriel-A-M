@@ -27,7 +27,7 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-Passionate Systems Computer Engineering student with a drive for innovation and problem-solving. I thrive on turning complex challenges into elegant solutions through code. My journey in technology is fueled by curiosity and a commitment to continuous learning.
+Passionate Systems Computer Engineering Student with a drive for innovation and problem-solving. I thrive on turning complex challenges into elegant solutions through code. My journey in technology is fueled by curiosity and a commitment to continuous learning.
 
 **I am interested in Web Development**
 - 🌱 I’m currently learning ...
