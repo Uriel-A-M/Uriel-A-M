@@ -18,9 +18,6 @@
   <a href="https://www.instagram.com/urielaymena/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="_._.adam._" height="30" width="40" /></a>
-  <a href="https://open.spotify.com/user/8xze2gwdnmf4b33lr0z9bdrpv?si=2b0401d620bd48ff" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
 </p>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>About me
@@ -36,7 +33,7 @@ Passionate Systems Computer Engineering Student with a drive for innovation and 
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, 📖 I love to read sci-fic novels, 🎬 watch youtube videos, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="urielaymena@gmail.com">urielaymena@gmail.com</a>
+- 📫 Reach out to me at: <a href="mailto:urielaymena@gmail.com">urielaymena@gmail.com</a>
 
 ## My Skills Include
 
@@ -52,6 +49,8 @@ Passionate Systems Computer Engineering Student with a drive for innovation and 
 
 <h4> Frameworks </h4>
 <span>
+  <img src="https://img.shields.io/badge/Yii2-4177AF?style=for-the-badge&logo=yii&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </span>
 
@@ -61,7 +60,7 @@ Passionate Systems Computer Engineering Student with a drive for innovation and 
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
 </span>
 
-<h4> IDE's </h4>
+<h4> IDEs </h4>
 <span>
 <img src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
