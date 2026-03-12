@@ -27,13 +27,13 @@
 Passionate Systems Computer Engineering Student with a drive for innovation and problem-solving. I thrive on turning complex challenges into elegant solutions through code. My journey in technology is fueled by curiosity and a commitment to continuous learning.
 
 **I am interested in Web Development**
-- 🌱 I’m currently learning ...
+- I’m currently learning ...
   - JavaScript
   - Python
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read sci-fic novels, 🎬 watch youtube videos, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="mailto:urielaymena@gmail.com">urielaymena@gmail.com</a>
+- I’m looking forward to collaborate on open source projects.
+- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!<br>
+- Outside tech, I love to read sci-fic novels, watch youtube videos, listen to music, and explore nature outdoors.
+- Reach out to me at: <a href="mailto:urielaymena@gmail.com">urielaymena@gmail.com</a>
 
 ## My Skills Include
 
