@@ -13,7 +13,7 @@ I'm always excited to collaborate on innovative projects and connect with fellow
 
 <p align="center">
 <a href="https://www.linkedin.com/in/jonathan-uriel-ay-mena" target="blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" width="40" /></a>
-<a href="mailto:urielaymena@gmail.com" target="blank"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Email" width="40" /></a>
+<a href="mailto:urielaymen089a@gmail.com" target="blank"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Email" width="40" /></a>
 <a href="https://www.instagram.com/urielaymena/" target="blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="40" /></a>
 <a href="https://www.facebook.com/urielaymena" target="blank"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" alt="Facebook" width="40" /></a>
 </p>
@@ -47,18 +47,15 @@ Passionate **Computer Systems Engineering Student** with a drive for innovation 
 <p>
   <img src="https://img.shields.io/badge/Yii2-4177AF?style=for-the-badge&logo=yii&logoColor=white">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
 </p>
 
 <h4> Tools & Environment </h4>
 <p>
-  <img src="https://img.shields.io/badge/WSL2-0078D4?style=for-the-badge&logo=windows-terminal&logoColor=white">
-  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white">
+  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
 </p>
 
 ---
