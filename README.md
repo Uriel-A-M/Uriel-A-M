@@ -13,7 +13,7 @@ I'm always excited to collaborate on innovative projects and connect with fellow
 
 <p align="center">
 <a href="https://www.linkedin.com/in/jonathan-uriel-ay-mena" target="blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" width="40" /></a>
-<a href="mailto:urielaymen089a@gmail.com" target="blank"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Email" width="40" /></a>
+<a href="mailto:urielaymena89@gmail.com" target="blank"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Email" width="40" /></a>
 <a href="https://www.instagram.com/urielaymena/" target="blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="40" /></a>
 <a href="https://www.facebook.com/urielaymena" target="blank"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" alt="Facebook" width="40" /></a>
 </p>
